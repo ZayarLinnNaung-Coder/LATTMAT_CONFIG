@@ -1,0 +1,1 @@
+# LATTMAT_CONFIG
